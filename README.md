@@ -4,8 +4,6 @@
 
 <br>
 
-[[_TOC_]]
-
 
 [*simhake*](https://github.com/MERVEX-group/simhake) is the repository for the data and codes used in the manuscript:
 
