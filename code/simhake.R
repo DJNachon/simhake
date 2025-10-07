@@ -8,7 +8,6 @@
 # 3Instituto Español de Oceanografía (IEO-CSIC). Sede Central. Calle del Corazón de María, 8, 28002 Madrid, Spain.
 # *Corresponding author: David José Nachón, *david.nachon@ieo.csic.es
 
-
 rm(list=ls())
 
 # Packages  -----------------------------------------
@@ -1063,5 +1062,6 @@ for (sc in names(PTs2)) {
 save.image( paste0( resdir, '/results.RData'))
 
 save( proj, file = paste0( resdir, '/L50_projections.RData'))
+
 
 
